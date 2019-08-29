@@ -8,4 +8,4 @@ def toadstool
   puts status
 end
 def link
-  phrase = 
+  phrase = "Thank You Mario! But Our Princess Is In Another Castle!"
