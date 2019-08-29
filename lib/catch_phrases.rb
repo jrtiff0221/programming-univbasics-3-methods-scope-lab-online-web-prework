@@ -4,8 +4,5 @@ def mario
 end
 
 def toadstool
-  sta
+  phrase =
   puts status
-end
-
-mario
